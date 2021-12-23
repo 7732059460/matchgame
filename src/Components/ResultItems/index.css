@@ -1,0 +1,13 @@
+.list-image {
+  height: 100px;
+  width: 60px;
+  margin-right: 5px;
+}
+.list-item-image {
+  display: flex;
+}
+.button {
+  border: none;
+  background-color: transparent;
+  margin-bottom: 30px;
+}

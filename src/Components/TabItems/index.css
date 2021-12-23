@@ -1,0 +1,12 @@
+.list-item {
+  list-style-type: none;
+}
+.button-item {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  margin-right: 20px;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 18px;
+}
